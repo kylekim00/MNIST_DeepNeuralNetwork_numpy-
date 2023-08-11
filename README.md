@@ -1,1 +1,1 @@
-# MNIST_DeepNeuralNetwork_numpy-
+# MNIST_DeepNeuralNetwork_numpy
